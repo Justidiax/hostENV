@@ -1,0 +1,7 @@
+install python 3.10 and reboot the system (python.org)
+double click the file hostenv.py and all done!
+Connect to your server going to the adress localhost:8080
+
+Go to the instructions for more about the programm (spoiler:Gui upcoming...)
+
+If you want to use public adress you need to request it to your wi-fi operator.

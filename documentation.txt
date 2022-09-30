@@ -1,0 +1,16 @@
+for every self.wfile.write(bytes("code") there's only 2 variables that you can create
+examaple:
+  self.wfile.write(bytes("<h1>Hello</h1>", "utf-8")
+
+', "utf-8" ' is the heart of every code, without that, all codes will be done, but without this the code in except will not work
+
+like for creating a page with a centered text:
+
+  self.wfile.write(bytes("<html><head><title>HostENV python server</title></head>", "utf-8"))
+  self.wfile.write(bytes("<body><h1 style=","utf-8"))
+  self.wfile.write(bytes("text-align:center>" , "utf-8"))
+  self.wfile.write(bytes("Welcome to the HostENV python server</h1></body></html>", "utf-8"))
+
+You can't import a code from a HTML file (for our tests, unite to the community if you know how to import it!)
+
+You can't change the port(default is 8080, unite to the community if you know how to change it)
