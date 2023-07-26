@@ -6,4 +6,4 @@ HostENV is a python server that you can use for testing vulnerabilies or others 
 
 download python(python.org), open the file and all done!
 
-*It has got some bugs, unite to the community to help developers (what developers, it's only me) to upgrade this software
+*It has got some bugs, unite to the community to help developers (what developers, it's only me) to upgrade this software*
